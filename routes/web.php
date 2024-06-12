@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\DocumentController;
 use App\Http\Controllers\ExportController;
 use Illuminate\Support\Facades\Route;
 
@@ -19,3 +20,8 @@ Route::get('/', function () {
 });
 
 Route::get('/export-word', [ExportController::class, 'exportWord']);
+Route::get('/generate-docx', [ExportController::class, 'generateDocx']);
+Route::get('/generate-word', [ExportController::class, 'createWordFile']);
+
+Route::get('/document-generate-word',[DocumentController::class,'generateDocument']);
+Route::get('/convert-html-to-word',[DocumentController::class,'convertHtmlToWord']);

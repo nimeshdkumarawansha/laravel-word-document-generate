@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html/>
 <html>
 
 <head>
@@ -91,7 +91,7 @@
                     <h2 class="mx-5"> REF - ........./2023/COM </h2>
                 </div>
                 <div class="col-md-5 offset-md-1 text-end">
-                    <img class="me-5" src="/img/logo/logo.png" width="200" height="130" alt="IJVR">
+                    {{-- <img class="me-5" src="/img/logo/logo.png" width="200" height="130" alt="IJVR" /> --}}
                 </div>
             </div>
             <div class="row">
@@ -101,7 +101,7 @@
                     REPORT
                 </span>
                 <div class="col-8 offset-2">
-                    <hr class="intro-hr">
+                    <hr class="intro-hr"/>
                 </div>
                 <div class="col-8 offset-2 text-center">
                     <span class="intro-description">Mr.S.S KUMAR, No.97/B, Meethotamulla road,
@@ -110,7 +110,7 @@
             </div>
             <div class="row g-0">
                 <div class="col-6 offset-6 text-end mb-2">
-                    <img class="me-2" src="/img/report/intro-page-footer-side.png" height="500" alt="IJVR">
+                    {{-- <img class="me-2" src="/img/report/intro-page-footer-side.png" height="500" alt="IJVR"/> --}}
 
                 </div>
             </div>
@@ -118,7 +118,7 @@
         <!-- Intro Page -->
 
         <!-- Second page -->
-        <div class="col-md-10 offset-md-1 col-12 mt-5 ">
+        {{-- <div class="col-md-10 offset-md-1 col-12 mt-5 ">
             <div class="row g-0">
                 <div class="col-md-3 text-start ">
                     <img src="/img/logo/logo.png" width="200" height="130" alt="IJVR">
@@ -156,21 +156,21 @@
                 </p>
             </div>
             <div class="row mt-2">
-                <p class=" font-size-1">
+                <p >
                     The Manager of ……………… branch - ……………. Bank PLC, has requested me to inspect the property
                     depicted as Lot No: .........in Survey Plan No..... dated ..............made by
-                    ..................Licensed Surveyor & Leveller, situated at………………. village within the
+                    ..................Licensed Surveyor and Leveller, situated at………………. village within the
                     administrative limits of……………… Pradeshiya Sabha/Urban Council/ Municipal Council and furnish
                     a
                     valuation report for the estimate of market value and forced sale value for the purpose of
                     mortgage.
                 </p>
-                <p class="font-size-1 mt-2">
+                <p>
                     <b>
                         The valuation details are as follows.
                     </b>
                 </p>
-                <p class="font-size-1 mt-2">
+                <p>
                     Further details are included in the report. Please refer the annexure 01 mentioned below.
                 </p>
                 <p class="font-size-2 mt-2">
@@ -187,14 +187,14 @@
                     <img src="/img/report/footer1.png" alt="IJVR">
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!-- Second page -->
 
         <!-- Third page -->
-        <div class="col-md-10 offset-md-1 col-12 mt-5 ">
+        {{-- <div class="col-md-10 offset-md-1 col-12 mt-5 ">
             <div class="row">
                 <div class="col-12">
-                    <p class="font-size-1 mt-2">
+                    <p>
                         <b>
                             LIMITATIONS
                         </b>
@@ -209,7 +209,7 @@
                         <li>I am not liable for the damages occur on the client of the report in case of
                             another purpose other than the “Intended Purpose” of the report.</li>
                         <li>This valuation has been prepared for the Directors of Commercial Bank PLC and
-                            not for any other person & no responsibility is accepted to third parties for
+                            not for any other person and no responsibility is accepted to third parties for
                             the whole or any part of the contents.</li>
                         <li><b>Validity period of the report is 6 months from the date from the date of
                                 valuation.</b></li>
@@ -217,7 +217,7 @@
                             <ul>
                                 <li>Available information at the time of inspection, and I’m not responsible
                                     for the facts which are not covered at my inspection such as:
-                                    astrological facts, social & cultural impact on the property.</li>
+                                    astrological facts, social and cultural impact on the property.</li>
                                 <li>Provided legal document by the client and the valuer is not responsible
                                     for any negligence done by the professionals (Surveyor, Architecture).
                                 </li>
@@ -231,7 +231,7 @@
                         </li>
                         <li>Neither the whole nor any part of this valuation or any reference there to may
                             be published in any published documents, circulars or statements published in
-                            any way without the written approval of the undersigned as to the form & context
+                            any way without the written approval of the undersigned as to the form and context
                             in which it may appear.</li>
                         <li>The analysis and conclusion only limited by the reported assumption and
                             conditions.</li>
@@ -239,7 +239,7 @@
                     </p>
                 </div>
                 <div class="col-12">
-                    <p class="font-size-1 mt-2">
+                    <p>
                         <b>
                             GENERAL ASSUMPTIONS
                         </b>
@@ -253,7 +253,7 @@
                             said property.</li>
                         <li>The property has been valued as if wholly owned, no account being taken of any
                             outstanding
-                            moneys due in respect of mortgage bonds, loans & other charges.</li>
+                            moneys due in respect of mortgage bonds, loans and other charges.</li>
                         <li>The valuation is done by the valuer with his best of knowledge by analyzing the
                             market
                             evidences.</li>
@@ -261,7 +261,7 @@
                     </p>
                 </div>
                 <div class="col-12">
-                    <p class="font-size-1 mt-2">
+                    <p>
                         <b>
                             COMPLIANCE STATEMENT
                         </b>
@@ -272,8 +272,8 @@
                     <ul>
                         <li>The valuer has no conflicts of interest on the subject property.</li>
                         <li>The valuation is produced in accordance with the ethical guidance, valuation
-                            standard numbers 07 & 20 of Sri Lanka Valuation standards, RICS standards
-                            & different guidelines given by the Bank.</li>
+                            standard numbers 07 and 20 of Sri Lanka Valuation standards, RICS standards
+                            and different guidelines given by the Bank.</li>
                         <li>I have followed the guidelines and checklist issued by Commercial Bank of
                             Ceylon PLC, effective from 01.01.2024, and hereby confirm that the valuation
                             report is prepared in accordance with the concerns raised by the bank, covering
@@ -284,10 +284,10 @@
                     </p>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!-- Third page -->
         <!-- Fourth Page -->
-        <div class="col-md-10 offset-md-1 col-12 mt-5">
+        {{-- <div class="col-md-10 offset-md-1 col-12 mt-5">
             <div class="row">
 
                 <p class="font-size-1 mt-2 text-center text-underline text-uppercase fw-bold">
@@ -300,7 +300,7 @@
 
             <div class="row">
                 <div class="col-12">
-                    <p class="font-size-1 mt-2">
+                    <p>
                         <b>
                             1 PURPOSE OF THE VALUATION
                         </b>
@@ -313,7 +313,7 @@
                     </p>
                 </div>
                 <div class="col-12">
-                    <p class="font-size-1 mt-2">
+                    <p>
                         <b>
                             2 PREMISE OF VALUE
                         </b>
@@ -331,7 +331,7 @@
                     </p>
                 </div>
                 <div class="col-12">
-                    <p class="font-size-1 mt-2">
+                    <p>
                         <b>
                             3 BASIS OF THE VALUATION
                         </b>
@@ -341,7 +341,7 @@
                     </p>
                 </div>
                 <div class="col-12">
-                    <p class="font-size-1 mt-2">
+                    <p>
                         <b>
                             4 CLIENT INFORMATION
                         </b>
@@ -430,7 +430,7 @@
                             <td>10</td>
                             <td>0.00510</td>
                             <td rowspan="2">Lot No: .........in Survey Plan No. .... dated ..............made by
-                                ..................Licensed Surveyor & Leveller.</td>
+                                ..................Licensed Surveyor and Leveller.</td>
                         </tr>
 
                         <tr>
@@ -444,12 +444,12 @@
                             <td>0.00510</td>
                             <td>Deed of Transfer/Gift/Ownership Certificate No. ………. dated …………. attested by
                                 …………………
-                                Attorney at law & N.P.</td>
+                                Attorney at law and N.P.</td>
                         </tr>
                     </table>
                     <p class="font-size-1 mt-4">
-                        &bull; The extent mentioned in the above survey plan is tally with the above deed. <br>
-                        &bull; The extent mentioned in the above survey plan and deed is 00A-0R-00P and
+                        andbull; The extent mentioned in the above survey plan is tally with the above deed. <br>
+                        andbull; The extent mentioned in the above survey plan and deed is 00A-0R-00P and
                         00A-0R-00P
                         respectively. However, I have considered the lowest extent.
                     </p>
@@ -570,7 +570,7 @@
                     </p>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!-- Fourth Page -->
     </div>
 </body>
